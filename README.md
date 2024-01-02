@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jc42noaa
 - 👀 I’m interested in weather coding
 - 🌱 I’m currently learning - all things python3
-- 💞️ I’m looking to collaborate on - anything related to convection allowing modeling/ensembles/data viz
+- 💞️ I’m looking to collaborate on - anything related to verification and convection allowing modeling/ensembles/data viz
 - 📫 How to reach me ... james . correia @ noaa dot gov
 
 <!---
